@@ -1,3 +1,5 @@
+# Takes everything from ./pics and turns them into ascii images
+
 from PIL import Image
 import os
 import math
